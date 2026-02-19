@@ -22,7 +22,7 @@ A Python script that monitors ELTA Courier (Greek postal service) packages and s
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/elta-tracker.git
+git clone ....
 cd elta-tracker
 
 # Install dependencies
