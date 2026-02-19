@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+tracker.log
+
+# State files
+.package_tracker_state.json
+
+# Personal config (if you create a separate config file)
+config.ini
+config.json
+credentials.txt
